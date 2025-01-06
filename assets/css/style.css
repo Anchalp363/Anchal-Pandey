@@ -601,7 +601,10 @@ header a.logo img {
 /* ===================================
    Page Piling
 ====================================== */
-
+.cus_social_icon .fa-brands {
+    font-size: 30px;
+    padding: 0 5px;
+}
 #pp-nav li .active span, .pp-slidesNav .active span {
     background-color: #FF69B4;
 }
